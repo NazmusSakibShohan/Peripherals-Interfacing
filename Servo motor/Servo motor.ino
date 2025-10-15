@@ -4,7 +4,7 @@ Servo servo1;
 
 void setup() {
 
-servo1.attch(5);
+servo1.attach(5);
 }
 
 void loop() {
